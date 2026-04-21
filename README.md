@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Lionel Johnson
+## 👋 Hi, I'm Beau Dean
 
-[![Author](https://img.shields.io/badge/Author-Lionel_Johnson-orange)](https://fairy.host) [![github](https://img.shields.io/badge/Github-Lionel_Johnson-green)](https://github.com/FairylandTech) [![GitBook](https://img.shields.io/badge/GitBook-Interesting-green)](https://interestingbooks.gitbook.io/) [![Editor](https://img.shields.io/badge/Editor-Typora-yellow)](https://github.com/FairylandTech) [![Language](https://img.shields.io/badge/Language-Markdown-orange)](https://github.com/FairylandTech) [![Version](https://img.shields.io/badge/Version-Release-blue)](https://github.com/FairylandTech) [![Docs](https://img.shields.io/badge/Docs-Passing-brightgreen)](https://github.com/FairylandTech) [![Type](https://img.shields.io/badge/Type-Document-blue)](https://github.com/FairylandTech) [![Wakatime](https://wakatime.com/badge/user/fa851759-c657-4b1e-8bcb-3ec3a693a2cd.svg)](https://wakatime.com/@fa851759-c657-4b1e-8bcb-3ec3a693a2cd) [![Sign](https://img.shields.io/badge/%E7%AD%89%E6%88%91%E4%BB%A3%E7%A0%81%E7%BC%96%E6%88%90-%E5%A8%B6%E4%BD%A0%E4%B8%BA%E5%A6%BB%E5%8F%AF%E5%A5%BD-red)](https://fairy.host)
+[![Author](https://img.shields.io/badge/Author-Beau_Dean-orange)](https://fairy.host) [![github](https://img.shields.io/badge/Github-Lionel_Johnson-green)](https://github.com/FairylandTech) [![GitBook](https://img.shields.io/badge/GitBook-Interesting-green)](https://interestingbooks.gitbook.io/) [![Editor](https://img.shields.io/badge/Editor-Typora-yellow)](https://github.com/FairylandTech) [![Language](https://img.shields.io/badge/Language-Markdown-orange)](https://github.com/FairylandTech) [![Version](https://img.shields.io/badge/Version-Release-blue)](https://github.com/FairylandTech) [![Docs](https://img.shields.io/badge/Docs-Passing-brightgreen)](https://github.com/FairylandTech) [![Type](https://img.shields.io/badge/Type-Document-blue)](https://github.com/FairylandTech) [![Wakatime](https://wakatime.com/badge/user/fa851759-c657-4b1e-8bcb-3ec3a693a2cd.svg)](https://wakatime.com/@fa851759-c657-4b1e-8bcb-3ec3a693a2cd) [![Sign](https://img.shields.io/badge/%E7%AD%89%E6%88%91%E4%BB%A3%E7%A0%81%E7%BC%96%E6%88%90-%E5%A8%B6%E4%BD%A0%E4%B8%BA%E5%A6%BB%E5%8F%AF%E5%A5%BD-red)](https://fairy.host)
 
 ---
 
@@ -25,7 +25,7 @@ Language Switching: [English ✔️](README.md) | [Chinese ❌]()
 - Gender: Male (👨 This's very important! 😕)
 - Home: https://fairy.host
 - My Blog: https://blog.fairy.host
-- Telegram: [@FairyLtd](https://t.me/FairyLtd) ~~If you're in Chinese mainland, please scan the QR code at the end of the document ontact me.~~
+- Telegram: [@FairylandFuture](https://t.me/FairylandFuture) ~~If you're in Chinese mainland, please scan the QR code at the end of the document ontact me.~~
 - E-mail: ~~fairy.alice@proton.me~~ fairylandfuture@outlook.com
 
 ![Langs](https://raw.githubusercontent.com/FairylandTech/fork_github-stats-transparent/output/generated/languages.svg)
@@ -40,7 +40,7 @@ As of 11 May 2024; Submitted by [Lionel Johnson](https://fairy.host)
 
 **Don't forget to follow me and my organization**
 
-- [**Lionel Johnson**](https://github.com/FairylandTech) (Administrator)
+- [**Beau Dean**](https://github.com/FairylandTech)
 - ~~[**AliceEngineer**](https://github.com/AliceEngineer) (Daily)~~
 - ~~[**AliceWorkSpace**](https://github.com/AliceWorkSpace) (Work)~~
 
@@ -49,10 +49,6 @@ As of 11 May 2024; Submitted by [Lionel Johnson](https://fairy.host)
 ## About my organization
 
 - [FairylandFuture](https://github.com/FairylandFuture)
-
-## Finale: Other friends
-
-[//]: # (- [Devil]&#40;https://github.com/Devil1314412&#41;)
 
 ---
 
